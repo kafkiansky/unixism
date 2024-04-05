@@ -11,7 +11,3 @@ license = "MIT"
 [features]
 dns = []
 hosts = []
-
-[[bin]]
-name = "dbg"
-path = "bin/dbg.rs"
